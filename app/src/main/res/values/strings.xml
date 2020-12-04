@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pract7manejodatos</string>
+    <string name="ttitulo">Manejo de archivos de texto</string>
+    <string name="tnombre">ingresa tu nombre homs</string>
+    <string name="tcontenido">contenido del archivo</string>
+    <string name="mengra">grabado</string>
+</resources>

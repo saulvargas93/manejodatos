@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="pract7manejodatos/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pract7manejodatos.iml" filepath="$PROJECT_DIR$/.idea/modules/pract7manejodatos.iml" group="pract7manejodatos" />
+    </modules>
+  </component>
+</project>
